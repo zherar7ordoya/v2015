@@ -112,6 +112,7 @@ h1.cd_title span{
 	-moz-transition: all 0.5s ease-in-out;
 	-o-transition: all 0.5s ease-in-out;
 	-transition: all 0.5s ease-in-out;
+	transition: all 0.5s ease-in-out;
 }
 .cd_navigation a:hover{
 	opacity:1.0;
@@ -167,6 +168,7 @@ a.cd_back{
 	-moz-transition: all 0.5s ease;
 	-o-transition: all 0.5s ease;
 	-transition: all 0.5s ease;
+	transition: all 0.5s ease;
 }
 a.cd_back:hover{
 	color:#ffc000;
