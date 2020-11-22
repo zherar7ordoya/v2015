@@ -8,7 +8,7 @@ Es llamativo cuánto uno llega a amar sus creaciones. Me pasa con mi música (so
 
 Hoy estoy contento de haberla recuperado. Como se se ve, es artesanal. Solo le hice unas mínimas modificaciones a los fines de "resucitarla" (por ejemplo, cambié el título de la página, le saqué el script de Google Analytics, el del perfil en G+, eso es todo) y la subo a GitHub para que perdure en estado funcional.
 
-Me hace feliz saber ahora que no miento cuando escribo :
+Me hace feliz saber ahora que es muy cierto cuando escribo :
 
 
 
