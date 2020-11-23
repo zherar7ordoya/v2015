@@ -10,17 +10,9 @@ Hoy estoy contento de haberla recuperado. Como se se ve, es artesanal. Solo le h
 
 Me hace feliz saber ahora que es muy cierto cuando escribo :
 
-
-
-
 > Made with 🧡 by Gerardo Tordoya
-
-
-
-
-
-
 
 ------
 
 [Deploy](https://zherar7ordoya.github.io/OnSalience/)
+[Template](https://tympanus.net/codrops/2011/04/11/circular-discography-template/)
